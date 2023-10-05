@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ivanci</h1>
 <h3 align="center">A passionate frontend developer from Bolivia</h3>
 
-- 🌱 I’m currently learning **design patterns**
+- 🌱 I’m currently learning **design patterns and testing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HerlanHerbasZubieta](https://github.com/HerlanHerbasZubieta)
 
